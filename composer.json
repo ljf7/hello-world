@@ -1,5 +1,5 @@
 {
-    "name": "ljf/hello-world",
+    "name": "ljf7/hello-world",
     "description": "this is test project",
     "authors": [
         {
@@ -7,5 +7,7 @@
             "email": "ljf7417@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
 }
