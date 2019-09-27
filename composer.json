@@ -1,0 +1,11 @@
+{
+    "name": "ljf/hello-world",
+    "description": "this is test project",
+    "authors": [
+        {
+            "name": "ljf7",
+            "email": "ljf7417@qq.com"
+        }
+    ],
+    "require": {}
+}
