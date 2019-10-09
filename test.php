@@ -19,3 +19,4 @@ $error_str .= 'this is error';
 // add records to the log
 $log->addWarning('Foo');
 $log->addError($error_str);
+// end
